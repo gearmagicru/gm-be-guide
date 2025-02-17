@@ -1,0 +1,24 @@
+/*!
+ * Панель (Docs).
+ *
+ * Модуль "Справочная информация".
+ *
+ * Copyright 2015 Вeб-студия GearMagic
+ * Copyright Anton Tivonenko <anton.tivonenko@gmail.com>
+ * https://gearmagic.ru/license/
+ */
+
+.gm-guide-tree .x-tree-icon-leaf { background-image: url("../images/icon-info.svg"); }
+.gm-guide-mask { background: url("../images/loading.gif") no-repeat center center; }
+
+/* Модальное окно */
+.gm-guide-popup .x-btn-icon-el {
+    width: 20px;
+    height: 20px;
+}
+.gm-guide-popup .x-btn-default-toolbar-small {
+    border: 0 none;
+    background: none;
+    border-radius: 0;
+}
+.gm-guide-popup .x-btn-default-toolbar-small.x-btn-over { background: #d3f0e0; }
