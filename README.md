@@ -5,7 +5,7 @@
 [![Latest Stable Version](https://img.shields.io/packagist/v/gearmagicru/gm-be-guide.svg)](https://packagist.org/packages/gearmagicru/gm-be-guide)
 [![Total Downloads](https://img.shields.io/packagist/dt/gearmagicru/gm-be-guide.svg)](https://packagist.org/packages/gearmagicru/gm-be-guide)
 [![Author](https://img.shields.io/badge/author-anton.tivonenko@gmail.com-blue.svg)](mailto:anton.tivonenko@gmail)
-[![Source Code](https://img.shields.io/badge/source-gearmagicru/gm--be--error__report-blue.svg)](https://github.com/gearmagicru/gm-be-guide)
+[![Source Code](https://img.shields.io/badge/source-gearmagicru/gm--be--guide-blue.svg)](https://github.com/gearmagicru/gm-be-guide)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/gearmagicru/gm-be-guide/blob/master/LICENSE)
 ![Component type: module](https://img.shields.io/badge/component%20type-module-green.svg)
 ![Component ID: gm.be.guide](https://img.shields.io/badge/component%20id-gm.be.guide-green.svg)
